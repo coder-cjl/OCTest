@@ -1,0 +1,51 @@
+PODS:
+  - CTMediator (46)
+  - FDFullscreenPopGesture (1.1)
+  - JXCategoryView (1.5.8)
+  - JXPagingView/Pager (2.0.13)
+  - Masonry (1.1.0)
+  - PLCrashReporter (1.8.1)
+  - QGVAPlayer (1.0.4)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - CTMediator
+  - FDFullscreenPopGesture
+  - JXCategoryView
+  - JXPagingView/Pager
+  - Masonry
+  - PLCrashReporter
+  - QGVAPlayer
+  - ReactiveCocoa (= 2.5)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - FDFullscreenPopGesture
+    - JXCategoryView
+    - JXPagingView
+    - Masonry
+    - PLCrashReporter
+    - QGVAPlayer
+    - ReactiveCocoa
+  trunk:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  JXCategoryView: 778a620f76070d6598fd8d7239991b8da8326170
+  JXPagingView: 821ed274f09eaf2843a96c3a74e9d138e27d9730
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PLCrashReporter: ea2d252e930f538a9f70f0b81bc9cce656651fbf
+  QGVAPlayer: 94734cb55d8518f694c9b2f3658932d3ce7d3165
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+
+PODFILE CHECKSUM: 7490a512be98c723f1331aad559a6aee2aede26e
+
+COCOAPODS: 1.10.1

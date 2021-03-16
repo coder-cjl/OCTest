@@ -1,0 +1,1 @@
+../../../QGVAPlayer/iOS/QGVAPlayer/QGVAPlayer/Classes/Controllers/QGAnimatedImageDecodeThread.h
